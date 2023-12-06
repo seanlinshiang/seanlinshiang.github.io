@@ -1,0 +1,3 @@
+[submodule "IoT_final_dashboard"]
+	path = IoT_final_dashboard
+	url = git@github.com:seanlinshiang/IoT_final_dashboard.git
