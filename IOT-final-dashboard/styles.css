@@ -1,0 +1,23 @@
+.row {
+  margin: 5em auto 5em auto;
+}
+body {
+  background-image: url("./background.jpg");
+}
+div.for_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div.container {
+  background-color: white;
+  opacity: 0.97;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px;
+}
+
+div.container h1 {
+  text-align: center;
+  font-size: 18px;
+}
